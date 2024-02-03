@@ -1,4 +1,4 @@
-# netninja
+# SafariFlutter
 
 A new Flutter project.
 
