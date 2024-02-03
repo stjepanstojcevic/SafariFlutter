@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "1b0da2f87a723738db3982c1ea0c76f0daa4c09b7c242577fd2ff007994dfbd2"
+build_start_time: [1706868641, 109963893]
+build_end_time: [1706868646, 633577823]
+inputs:
+  "/Users/stjepanstojcevic/Desktop/SS/netninja/macos/Flutter/GeneratedPluginRegistrant.swift": [1706868628, 764210700]
+  "/Users/stjepanstojcevic/Desktop/SS/netninja/macos/Runner/AppDelegate.swift": [1706694943, 128953456]
+  "/Users/stjepanstojcevic/Desktop/SS/netninja/macos/Runner/MainFlutterWindow.swift": [1706694943, 129827976]
